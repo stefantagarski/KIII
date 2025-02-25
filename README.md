@@ -4,5 +4,5 @@ Continuous Integration And Continuous Delivery/Deployment (DevOps) @ FCSE-Skopje
 
 <h4>Homework Links for the subject</h4>
 <ul>
-  <li href="">Homework1</li>
+  <li><a href="https://github.com/stefantagarski/KIII-1">Homework1</a></li>
 </ul>
