@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+  labels:
+    app: ngnix-app
+spec:
+  containers:
+    - name: ngnix
+      image: stefantagarski/ngnix-kubernetes
+      ports:
+        - containerPort: 80
